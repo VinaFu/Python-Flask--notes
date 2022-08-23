@@ -17,9 +17,12 @@ Environment:
 https://www.youtube.com/watch?v=N5vscPTWKOk&t=0s
 
     mkdir （make directory，创建目录）可以在Terminal里面建立一个文件
-    cd !$  上一页
+    cd !$  上一页; 
+    cd 去到想去的地方/返回到最开始的一页
     ls  列表
-    rm -rf是一条UNIX系统下的文件删除命令，作用是无提示地强制递归删除文件。 只需要在UNIX的命令行界面打出“rm -rf”（不含双引号）便可以调用这一条指令，删除当前目录下所有文件，并且不能够恢复。
+    source ... /bin/active 会出现小括号。
+    
+    慎用：rm -rf是一条UNIX系统下的文件删除命令，作用是无提示地强制递归删除文件。 只需要在UNIX的命令行界面打出“rm -rf”（不含双引号）便可以调用这一条指令，删除当前目录下所有文件，并且不能够恢复。
     
       vinafu@192 ~ % mkdir Environment
       vinafu@192 ~ % cd !$  
@@ -43,7 +46,7 @@ https://www.youtube.com/watch?v=N5vscPTWKOk&t=0s
       
       vinafu@192 Environment % rm -rf project1_env/  - 不要了，就删除刚刚建的文件名
       
-      7分钟
+    
 
 
 
