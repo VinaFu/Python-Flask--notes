@@ -1,8 +1,9 @@
-# Python-Flask--notes
+Flask--notes-1
 
 Python後端項目
 https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
 
+右键+control相当于一般电脑右键
 
 Python: 
 
